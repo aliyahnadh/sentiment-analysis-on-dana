@@ -20,7 +20,7 @@ Ulasan pengguna di Play Store menjadi sumber informasi berharga untuk memahami k
  
 ```
 📦 sentiment-analysis-dana/
-├── 📂 notebooks/
+├── 📂 notebook/
 │   ├── 📓 01_data_scraping.ipynb                    # Scraping ulasan dari Google Play Store
 │   ├── 📓 02_data_labeling_and_preprocessing.ipynb  # Pelabelan & preprocessing teks
 │   ├── 📓 03_data_modeling.ipynb                    # Pelatihan & perbandingan model
