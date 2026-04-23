@@ -118,7 +118,7 @@ Proyek ini merupakan hasil dari **DBS Coding Camp Learning Path AI Engineer 2026
  
 **[Aliyah Nadhratunnaim]**  
 📧 aliyah180606@gmail.com  
-🔗 [LinkedIn](https://[linkedin.com/in/aliyahnadhratunnaim/)) | [GitHub](https://github.com/aliyahnadh)
+🔗 [LinkedIn](https://[linkedin.com/in/aliyahnadhratunnaim) | [GitHub](https://github.com/aliyahnadh)
 
 
 
