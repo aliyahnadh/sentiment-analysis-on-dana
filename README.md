@@ -106,11 +106,6 @@ Google Play Store
 - Preprocessing menggunakan kamus slang bahasa Indonesia dari `indoNLP`
 - Hyperparameter tuning menggunakan **Optuna TPE Sampler** dengan 15 trials per model
 - Model disimpan dalam format `.h5` (Keras) dan `.pkl` (joblib)
----
-
-## 🏫 Program
-
-Proyek ini merupakan hasil dari **DBS Coding Camp Learning Path AI Engineer 2026**
 
 ---
 
@@ -120,7 +115,9 @@ Proyek ini merupakan hasil dari **DBS Coding Camp Learning Path AI Engineer 2026
 📧 aliyah180606@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/aliyahnadhratunnaim) | [GitHub](https://github.com/aliyahnadh)
 
+---
 
+> 🏫 Proyek ini merupakan hasil dari DBS Coding Camp Learning Path AI Engineer 2026
 
 
 
